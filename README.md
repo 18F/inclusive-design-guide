@@ -7,3 +7,4 @@ This guide will describe how 18F builds digital products to be inclusive and acc
 
 Notes
 - [Aria and icon fonts](http://css-tricks.com/html-for-icon-font-usage/)
+- [Accessible tooltips](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
